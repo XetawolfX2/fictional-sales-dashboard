@@ -53,7 +53,7 @@ An interactive dashboard project created in Tableau using a fictional retail sal
 
 ## 🔗 Live Repository
 
-[https://github.com/XetawolfX2/sales-dashboard](https://github.com/XetawolfX2/sales-dashboard)
+[https://github.com/XetawolfX2/sales-dashboard](https://github.com/XetawolfX2/fictional-sales-dashboard)
 
 ---
 
